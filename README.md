@@ -1,4 +1,4 @@
-# Churrascmetro
+# Churrascometro
 
 O Churrascômetro é um projeto simples desenvolvido em HTML, CSS e JavaScript para calcular a quantidade de carne e bebida necessárias para um churrasco, com base no número de pessoas e na duração do evento.
 
